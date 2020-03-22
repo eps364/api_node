@@ -5,6 +5,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
+            "restart": true,
             "skipFiles": [
                 "<node_internals>/**"
             ],
@@ -13,6 +14,7 @@
         {
             "type": "node",
             "request": "attach",
+            "restart": true,
             "name": "Attach Program Debug",
             "protocol": "inspector"
         }
