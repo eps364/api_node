@@ -1,0 +1,7 @@
+{
+  "name": "node_api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Emerson Silva <pereiradasilva.emerson@gmail.com>",
+  "license": "MIT"
+}
